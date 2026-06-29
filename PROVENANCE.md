@@ -1,13 +1,13 @@
 # Provenance
 
-Version: `1.0.0-rc24`
+Version: `1.0.0-rc25`
 
-Source commit: `f54ed4f03f742e74503bc908be444b849f455fb3`
+Source commit: `b26f0b18799b6786e8ddc47516cf9192f6dfd57f`
 
 Archive checksum:
 
 ```text
-e12ad7c90580fcad1516124689da7ba1a68cbb22be9eb59c2d5814af71226ab4
+44fcf356fa6d68a7a670035149b2c048e8b46196764de1451db8679260649f64
 ```
 
 Included slices:
