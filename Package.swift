@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EdgeHalo",
-            url: "https://github.com/AtomGradient/edge-halo-binary/releases/download/1.0.0-rc26/EdgeHalo.xcframework.zip",
-            checksum: "0b61e5b11360264d0418599c5978da30a7948037efc51997f4ea5c3a8c501d18"
+            url: "https://github.com/AtomGradient/edge-halo-binary/releases/download/1.0.0-rc27/EdgeHalo.xcframework.zip",
+            checksum: "afa26e3813b584500796584fcbe94b5431838fff2d6692456a87c24ae2de79f4"
         ),
     ]
 )

@@ -27,7 +27,7 @@ let halo = EdgeHaloRuntime(engine: engineSession, generator: generator)
 Current release candidate:
 
 ```text
-1.0.0-rc26
+1.0.0-rc27
 ```
 
 ## Platform Support
@@ -40,7 +40,7 @@ iOS Simulator slices are not included in the public binary package.
 ## Checksum
 
 ```text
-0b61e5b11360264d0418599c5978da30a7948037efc51997f4ea5c3a8c501d18
+afa26e3813b584500796584fcbe94b5431838fff2d6692456a87c24ae2de79f4
 ```
 
 ## License
